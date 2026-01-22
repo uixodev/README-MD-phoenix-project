@@ -1,4 +1,4 @@
-# 🐦‍🔥 PROJECT PHOENIX DOCUMENTATION
+# PROJECT PHOENIX DOCUMENTATION
 
 <img src="https://i.pinimg.com/1200x/dc/16/3b/dc163b42fb863411d390c6dfba7ebf73.jpg" width="100%"></img>
 
