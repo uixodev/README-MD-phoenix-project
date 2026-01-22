@@ -1,6 +1,7 @@
 # PROJECT PHOENIX DOCUMENTATION
 
-<img src="https://www.thesun.co.uk/wp-content/uploads/2023/01/bandicoot-tv-reproduced-editorial-purposes-785479405-8.jpg?quality=80&strip=all&w=1920&h=1440&crop=1" width="600px"></img>
+
+<img src="/phoenix header.png" width="600px"></img>
 
 
 This is the main documentation for **Project Phoenix**. It's a really cool task management </br> app that helps teams work together better. We think you'll love it!
