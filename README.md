@@ -1,10 +1,14 @@
-# PROJECT PHOENIX DOCUMENTATION
+# 🐦‍🔥 PROJECT PHOENIX DOCUMENTATION
+
+<img src="https://i.pinimg.com/1200x/dc/16/3b/dc163b42fb863411d390c6dfba7ebf73.jpg" width="100%"></img>
+
 
 This is the main documentation for Project Phoenix. It's a really cool task management app that helps teams work together better. We think you'll love it!
 
 Project Phoenix is built with modern web technologies and focuses on simplicity and power. It's not just another task manager - it's a complete solution for team productivity.
 
 Why did we build this? Because existing tools were either too complex or too simple. We found the sweet spot.
+
 
 ## QUOTES FROM USERS
 
@@ -157,61 +161,79 @@ S5. tart the application
 
 Thanks to @uixodev for the amazing documentation! 
 
-We fixed the authentication issue in #123. The new dashboard feature is described in #456. For the API changes, see #789.
+We fixed the authentication issue in #1. <!-- The new dashboard feature is described in #456. For the API changes, see #789.-->
 
-EXTERNAL REFERENCES
+## EXTERNAL REFERENCES
 
 See JIRA-123 for the original feature request. Check ZENDESK-456 for customer support tickets. Refer to CONFLUENCE-789 for technical specifications.
 
-UPLOADING ASSETS
+
+## UPLOADING ASSETS
 
 [Upload your project screenshot here]
+
+<img width="367" height="249" alt="Screenshot 2026-01-20 at 21 29 18" src="https://github.com/user-attachments/assets/fcb4bb64-67c0-44b0-aebd-4995a4d67f37" />
+
 [Upload your team logo here]
+
 [Upload your architecture diagram here]
 
-EMOJIS
+## EMOJIS
 
 We're excited to launch this project! 🚀 It's been a labor of love. ❤️ Thanks to all our contributors! 🙏 Please report any issues you find. 🐛 We'll fix them quickly. ⚡
 
-PARAGRAPHS
+## PARAGRAPHS
 
 This is the first paragraph. It contains some basic information about the project.
 
 This is the second paragraph. It provides more details and context. We believe in clear communication and comprehensive documentation.
 
 This is the third paragraph. It concludes the introduction and sets up the next sections.
+</hr>
 
-FOOTNOTES
+## FOOTNOTES
 
-This project follows semantic versioning[1]. We use conventional commits[2] for our commit messages[3].
+This project follows semantic versioning[^1]. We use conventional commits[^2] for our commit messages[^3].
 
-ALERTS
+[^1]: meaning of semantic versioning
+[^2]: what is conventioanl commits
+[^3]: you must commit messages 
 
-Note: This is important information that users should know, even when skimming.
 
-Tip: Use keyboard shortcuts to navigate faster. Press Ctrl+K to open the command palette.
+## ALERTS
+> [!NOTE]
+> This is important information that users should know, even when skimming.
 
-Important: You must have Node.js 14+ installed. This is a hard requirement.
+> [!TIP]
+> Use keyboard shortcuts to navigate faster. Press Ctrl+K to open the command palette.
 
-Warning: Back up your data before upgrading. Always create a database backup.
+> [!IMPORTANT]
+> You must have Node.js 14+ installed. This is a hard requirement.
 
-Caution: The beta features may be unstable. Use with caution in production.
+> [!WARNING]
+> Back up your data before upgrading. Always create a database backup.
 
-HIDDEN CONTENT
+> [!CAUTION]
+> Back up your data before upgrading. Always create a database backup.
 
+## HIDDEN CONTENT
+
+_You can't see it cause it's hidden_
+
+  
 <!-- This is an internal note for developers: Remember to update the version number in package.json before release -->
 
 <!-- TODO: Add more examples to the documentation -->
 
-ESCAPING MARKDOWN
+## ESCAPING MARKDOWN
 
-I want to show *literal asterisks* here, not italic text.
+I want to show \*literal asterisks* here, not italic text.
 
-I want to show **literal double asterisks** here, not bold text.
+I want to show \**literal double asterisks** here, not bold text.
 
-I want to show `literal backticks` here, not code.
+I want to show \`literal backticks` here, not code.
 
-FURTHER READING
+## FURTHER READING
 
 For more information, check out the GitHub Flavored Markdown specification. You might also find the Markdown Guide helpful. The official Markdown website is a great resource too.
 
