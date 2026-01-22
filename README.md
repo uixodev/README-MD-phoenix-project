@@ -7,6 +7,10 @@ This is the main documentation for Project Phoenix. It's a really cool task mana
 
 Project Phoenix is built with modern web technologies and focuses on simplicity and power. It's not just another task manager - it's a complete solution for team productivity.
 
+> [!IMPORTANT]
+> For more information of how to format github .md file use this official github page </br>
+> [Basic writing and formating syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emojis)
+
 Why did we build this? Because existing tools were either too complex or too simple. We found the sweet spot.
 
 
