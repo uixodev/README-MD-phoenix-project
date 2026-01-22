@@ -1,9 +1,9 @@
 # PROJECT PHOENIX DOCUMENTATION
 
-<img src="https://i.pinimg.com/1200x/dc/16/3b/dc163b42fb863411d390c6dfba7ebf73.jpg" width="100%"></img>
+<img src="https://www.thesun.co.uk/wp-content/uploads/2023/01/bandicoot-tv-reproduced-editorial-purposes-785479405-8.jpg?quality=80&strip=all&w=1920&h=1440&crop=1" width="600px"></img>
 
 
-This is the main documentation for Project Phoenix. It's a really cool task management app that helps teams work together better. We think you'll love it!
+This is the main documentation for **Project Phoenix**. It's a really cool task management app that helps teams work together better. We think you'll love it!
 
 Project Phoenix is built with modern web technologies and focuses on simplicity and power. It's not just another task manager - it's a complete solution for team productivity.
 
